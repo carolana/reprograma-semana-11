@@ -1,0 +1,17 @@
+{
+  "name": "projeto-para-casa",
+  "version": "1.0.0",
+  "description": "Uma api que permite você observar diferentes viagens de ônibus, controlando informações sobre o motorista e passageiros!<br />",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
