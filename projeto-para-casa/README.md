@@ -2,7 +2,7 @@
 
 Essa semana fizemos nosso Projeto Guiado: Uma api que permite você observar diferentes viagens de ônibus, controlando informações sobre o motorista e passageiros!
 
-![gif "a bus"](projeto-para-casa/img/giphy000.gif)
+![gif "a bus"](img/giphy000.gif)
 
 ## Instruções
 
@@ -58,4 +58,4 @@ Essa semana fizemos nosso Projeto Guiado: Uma api que permite você observar dif
 
 E, aí, pronta(o) para essa viagem?
 
-![gif "Dwight driving a bus"](projeto-para-casa/img/giphy-downsized.gif)
+![gif "Dwight driving a bus"](img/giphy-downsized.gif)
